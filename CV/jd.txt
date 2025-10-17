@@ -1,0 +1,3 @@
+Programmatūras inženieris — Backend (Python)
+
+Prasības: Python, PostgreSQL.
